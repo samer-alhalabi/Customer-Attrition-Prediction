@@ -5,4 +5,4 @@ In this project, I will use customers dataset to predict customer attrition, als
 
 ### Predictions
 
-![image]()
+![image](images/preds.jpg)
